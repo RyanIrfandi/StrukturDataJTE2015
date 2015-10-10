@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Makanan()
+comment1.params=nama\ harga\ jenismakanan
+comment1.target=Makanan(java.lang.String,\ java.lang.String,\ JenisMakanan[])
+numComments=2
